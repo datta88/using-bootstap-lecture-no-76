@@ -1,0 +1,41 @@
+{
+    "title" : "Sanju's garij",
+    "discription" : "this is a description page ",
+    "thim": {
+        "primeryColor":"#b35900",
+        "secondaryColor" : "#ccf5ff",
+        "accentColor": "#ccf5ff",
+        "skayColor": "#ff33cc",
+        "dangerColor": "#134d00"
+     },
+     "flex":"row",
+    "servicess" : [
+        {
+            "title" :"Sagar Bar 4",
+            "discription" :"service 4 description",
+            "secondaryColor" : "#ccf5ff",
+            "price": 500
+        },
+       
+            
+        {
+            "title" :"kashish winshop 1",
+            "discription" :"service 1 description",
+            "primeryColor":"#b35900",
+            "price": 100
+        },
+        {
+            "title" :"Service 2",
+            "discription" :"service 2 description",
+            "accentColor": "#ccf5ff",
+            "price": 200
+        },
+        {
+            "title" :"Service 3",
+            "discription" :"service 3 description",
+            "skayColor": "#ff33cc",
+            "price": 300
+        }
+    ]
+
+}
